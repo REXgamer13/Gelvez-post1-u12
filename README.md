@@ -1,8 +1,15 @@
 # Integracion de Patrones y Arquitecturas — U12 Post 1
 
+Juan Sebastian Gelvez Botia - 02230131065
+
 ## Objetivo
 Integrar Factory, Strategy, Observer y Facade en un sistema de pedidos y comparar
 metricas antes y despues con SonarQube.
+
+El estudiante implementa un sistema de gestión de pedidos en Spring Boot
+integrando cuatro patrones de diseño (Factory, Strategy, Observer y Facade),
+verifica el desacoplamiento entre capas con ArchUnit, y compara las métricas de
+calidad antes y después de la integración de patrones usando SonarQube.
 
 ## Arquitectura
 - Dominio: entidades y puertos.
